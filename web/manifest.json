@@ -1,6 +1,6 @@
 {
-    "name": "bus_tracker",
-    "short_name": "bus_tracker",
+    "name": "multi_screen_app",
+    "short_name": "multi_screen_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
